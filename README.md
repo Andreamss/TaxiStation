@@ -1,4 +1,6 @@
 # Taxi Station Simulator
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAndreamss%2FTaxiStation.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAndreamss%2FTaxiStation?ref=badge_shield)
+
 
 This is study project for course "JAVA Programming Languages" @ Afeka College of Engineering.
 
@@ -27,3 +29,7 @@ At the end of the trip taxi creates reciept and store it in the db.
 Alex Gavrishev, Eran Zimbler 2012
 
  [1]: https://github.com/anod/TaxiStationAndroid
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAndreamss%2FTaxiStation.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAndreamss%2FTaxiStation?ref=badge_large)
